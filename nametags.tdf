@@ -1,6 +1,6 @@
 \unitlength=1in
-\hoffset=-0.95in
-\voffset=-1.1in
+\hoffset=-0.6in
+\voffset=-0.7in
 \ticketNumbers{2}{4}
 \ticketSize{3.25}{2.2}
 \ticketDistance{0.05}{0.05}
