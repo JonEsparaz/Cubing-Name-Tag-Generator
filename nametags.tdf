@@ -2,5 +2,5 @@
 \hoffset=-0.87in
 \voffset=-0.75in
 \ticketNumbers{2}{4}
-\ticketSize{3.25}{2.25}
-\ticketDistance{0.2}{0.2}
+\ticketSize{3.5}{2.2}
+\ticketDistance{0.05}{0.05}
